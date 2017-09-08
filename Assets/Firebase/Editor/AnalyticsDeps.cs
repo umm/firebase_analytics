@@ -98,7 +98,8 @@ public class FirebaseAnalyticsDeps : AssetPostprocessor
                 },
                 { "repositories",
                     new string[] {
-                        "Assets/Firebase/m2repository"
+                        "Assets/Modules/umm@firebase_core/Firebase/m2repository",
+                        "Assets/Modules/umm@firebase_analytics/Firebase/m2repository"
                     }
                 }
             });
