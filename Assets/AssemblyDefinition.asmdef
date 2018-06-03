@@ -1,0 +1,10 @@
+{
+    "name": "umm@firebase_analytics",
+    "references": [
+        "umm@firebase_core"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false
+}
