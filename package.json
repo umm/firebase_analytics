@@ -1,6 +1,6 @@
 {
   "name": "@umm/firebase_analytics",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Firebase Unity SDK / Analytics",
   "homepage": "https://github.com/umm/firebase_analytics",
   "bugs": {
