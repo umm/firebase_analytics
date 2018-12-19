@@ -1,29 +1,30 @@
 fileFormatVersion: 2
-guid: 041d332f4c74419ab5ec636abcd0282f
+guid: 8c9809d259fa400c84a958c7960a2bc5
 labels:
 - gvh
-- gvh_linuxlibname-Analytics
-- gvh_version-4.4.3
+- gvh_version-5.4.3
 PluginImporter:
   externalObjects: {}
   serializedVersion: 2
   iconMap: {}
   executionOrder: {}
+  defineConstraints: []
   isPreloaded: 0
   isOverridable: 0
+  isExplicitlyReferenced: 0
   platformData:
   - first:
       '': OSXIntel
     second:
       enabled: 0
       settings:
-        CPU: AnyCPU
+        CPU: None
   - first:
       '': OSXIntel64
     second:
       enabled: 1
       settings:
-        CPU: AnyCPU
+        CPU: x86_64
   - first:
       '': Web
     second:
@@ -50,7 +51,7 @@ PluginImporter:
     second:
       enabled: 1
       settings:
-        CPU: x86_64
+        CPU: AnyCPU
         DefaultValueInitialized: true
         OS: AnyOS
   - first:
@@ -58,7 +59,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
-        CPU: AnyCPU
+        CPU: None
   - first:
       Facebook: Win64
     second:
@@ -70,7 +71,7 @@ PluginImporter:
     second:
       enabled: 0
       settings:
-        CPU: x86
+        CPU: None
   - first:
       Standalone: Linux64
     second:
@@ -80,21 +81,21 @@ PluginImporter:
   - first:
       Standalone: LinuxUniversal
     second:
-      enabled: 1
+      enabled: 0
       settings:
-        CPU: x86_64
+        CPU: None
   - first:
       Standalone: OSXUniversal
     second:
-      enabled: 1
+      enabled: 0
       settings:
-        CPU: x86_64
+        CPU: None
   - first:
       Standalone: Win
     second:
       enabled: 0
       settings:
-        CPU: AnyCPU
+        CPU: None
   - first:
       Standalone: Win64
     second:
